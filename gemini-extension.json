@@ -1,0 +1,10 @@
+{
+  "name": "share-artifacts",
+  "version": "1.0.0",
+  "description": "Publish HTML reports, slide decks, and visual documents to shareable URLs with Share Artifacts.",
+  "mcpServers": {
+    "share-artifacts": {
+      "httpUrl": "https://shareartifacts.dev/api/mcp"
+    }
+  }
+}
