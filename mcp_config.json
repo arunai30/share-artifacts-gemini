@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "share-artifacts": {
+      "serverUrl": "https://shareartifacts.dev/api/mcp"
+    }
+  }
+}
